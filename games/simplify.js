@@ -119,8 +119,6 @@ function operatorButtonsHtml() {
       <button class="simplify-symbol-btn" type="button" data-symbol="∨" aria-label="or einfügen">∨</button>
       <button class="simplify-symbol-btn" type="button" data-symbol="∧" aria-label="and einfügen">∧</button>
       <button class="simplify-symbol-btn" type="button" data-symbol="¬" aria-label="not einfügen">¬</button>
-      <button class="simplify-symbol-btn" type="button" data-symbol="(" aria-label="Klammer auf einfügen">(</button>
-      <button class="simplify-symbol-btn" type="button" data-symbol=")" aria-label="Klammer zu einfügen">)</button>
     </div>
   `;
 }
